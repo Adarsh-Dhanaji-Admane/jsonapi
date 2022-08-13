@@ -1,1 +1,31 @@
-[{"id":1,"Name":"Adarsh Admane","Age":23,"JobTitle":"software developer","Email":"adarshadmane@hotmail.com","Phone":869085008,"JoinDate":"2020-06-01","ProfileImage":"https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png"},{"id":2,"Name":"Asshish Auti","Age":24,"JobTitle":"software developer","Email":"aashish.auti@gmail.com","Phone":7458505661,"JoinDate":"2020-01-15","ProfileImage":"https://preview.redd.it/v0caqchbtn741.jpg?auto=webp&s=c5d05662a039c031f50032e22a7c77dfcf1bfddc"},{"id":3,"Name":"Vaibhav Thakare","Age":23,"JobTitle":"Network Anylsis","Email":"vaibhav.th@gmail.com","Phone":7410852200,"JoinDate":"2019-09-19","ProfileImage":"https://i.pinimg.com/236x/be/de/d4/beded40c846c5c8d31224a596a6b2ae7.jpg"}]
+[
+  {
+    "id":1,
+    "Name":"Adarsh Admane",
+    "Age":23,
+    "JobTitle":"software developer",
+    "Email":"adarshadmane@hotmail.com",
+    "Phone":869085008,"JoinDate":"2020-06-01",
+    "ProfileImage":"https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png"
+  },
+  {
+    "id":2,
+    "Name":"Asshish Auti",
+    "Age":24,
+    "JobTitle":"software developer",
+    "Email":"aashish.auti@gmail.com",
+    "Phone":7458505661,
+    "JoinDate":"2020-01-15",
+    "ProfileImage":"https://preview.redd.it/v0caqchbtn741.jpg?auto=webp&s=c5d05662a039c031f50032e22a7c77dfcf1bfddc"
+  },
+  {
+    "id":3,
+    "Name":"Vaibhav Thakare",
+    "Age":23,
+    "JobTitle":"Network Anylsis",
+    "Email":"vaibhav.th@gmail.com",
+    "Phone":7410852200,
+    "JoinDate":"2019-09-19",
+    "ProfileImage":"https://i.pinimg.com/236x/be/de/d4/beded40c846c5c8d31224a596a6b2ae7.jpg"
+  }
+]
